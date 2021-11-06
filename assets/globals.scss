@@ -1,4 +1,15 @@
-.v-application .primary--text {
-  color: #00e676;
-  caret-color: #00e676;
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('~assets/fonts/Ubuntu-Regular.ttf') format('truetype');
+  }
+
+  .title-text {
+      font-family: "Ubuntu";
+  }
+
+.drawer {
+    background-color: aquamarine;
 }
