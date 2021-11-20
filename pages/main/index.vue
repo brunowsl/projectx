@@ -31,7 +31,11 @@
     </v-app-bar>
     <v-main>
       <v-container>
-        <v-card> </v-card>
+        <v-card> 
+          <v-card-text>
+            
+          </v-card-text>
+        </v-card>
       </v-container>
     </v-main>
   </v-row>

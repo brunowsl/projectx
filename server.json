@@ -1,3 +1,68 @@
-[
-    
-]
+{
+  "transactions": [
+    {
+      "transaction_id": 1,
+      "value": 250.0,
+      "coin": "DOLLAR",
+      "token_quantity": 1542.345,
+      "token": {
+        "token_id": 1,
+        "name": "WARSHIP BATTLE",
+        "abbreviation": "OIL",
+        "wallet_address": "0x66f0095a54b16980617af51cfef87D3F95Cf0257"
+      },
+      "owner": {
+        "owner_id": 1,
+        "wallet_address": "0xCf52971AC7B0Cc950Eef12084eF777Dcb5c08314",
+        "owner_email": "brunowsl123@gmail.com"
+      },
+      "Tx_Info": {
+        "tx_info_id": 1,
+        "tx_hash": "0x2d213d93c7d2a00d52cba57d0b6ba7d27a31f8c910c0e63ed13a808456011176"
+      }
+    },
+    {
+      "transaction_id": 2,
+      "value": 120.0,
+      "coin": "DOLLAR",
+      "token_quantity": 1100.2,
+      "token": {
+        "token_id": 1,
+        "name": "WARSHIP BATTLE",
+        "abbreviation": "OIL",
+        "wallet_address": "0x66f0095a54b16980617af51cfef87D3F95Cf0257"
+      },
+      "owner": {
+        "owner_id": 1,
+        "wallet_address": "0xCf52971AC7B0Cc950Eef12084eF777Dcb5c08314",
+        "email": "brunowsl123@gmail.com"
+      },
+      "tx_info": {
+        "tx_info_id": 1,
+        "tx_hash": "0x2d213d93c7d2a00d52cba57d0b6ba7d27a31f8c910c0e63ed13a808456011176"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "token_id": 1,
+      "name": "WARSHIP BATTLE",
+      "abbreviation": "OIL",
+      "wallet_address": "0x66f0095a54b16980617af51cfef87D3F95Cf0257"
+    },
+    {
+      "token_id": 2,
+      "name": "BOMBCRYPTO",
+      "abbreviation": "BCOIN",
+      "wallet_address": "0x00e1656e45f18ec6747F5a8496Fd39B50b38396D"
+    }
+  ],
+  "owners": [
+    {
+      "owner_id": 1,
+      "email": "brunowsl123@gmail.com",
+      "wallet_address": "0xCf52971AC7B0Cc950Eef12084eF777Dcb5c08314",
+      "name": "Bruno Lobão"
+    }
+  ]
+}
